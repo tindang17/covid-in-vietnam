@@ -1,4 +1,4 @@
-#Covid in Vietnam
+# Covid in Vietnam
 
 I was curious about the covid situation in my hometown so I analyze the covid data in order to find out about infection rate, death rate and vaccination rate.
 
